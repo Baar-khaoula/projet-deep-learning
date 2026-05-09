@@ -15,7 +15,7 @@ Le modèle hybride a permis d’obtenir les meilleures performances en combinant
 la capacité d’extraction locale des caractéristiques du CNN,
 et la puissance du Transfer Learning avec MobileNetV2.
 
-Objectifs :
+## Objectifs :
  
 - Détecter automatiquement les accidents routiers
 - Comparer différentes architectures de Deep Learning
@@ -23,7 +23,7 @@ Objectifs :
 - Réduire les erreurs de classification
 - Fournir un système intelligent d’aide à la surveillance routière
 - 
-Dataset utilisé :
+## Dataset utilisé :
 
 Le dataset utilisé est :
 Accident Detection From CCTV Footage
@@ -35,11 +35,11 @@ Non Accident
 
 Les données ont été prétraitées et augmentées afin d’améliorer la généralisation des modèles.
 
-Contenu du projet : 
+### Contenu du projet : 
 - Notebooks jupyter (.ipynb)
 - Modéles entrainés
 
-Technologies utilisées : 
+### Technologies utilisées : 
 - Python
 - TensorFlow / Keras
 - OpenCV
@@ -47,7 +47,7 @@ Technologies utilisées :
 - Matplotlib
 - Scikit-learn
 
-  Auteurs : 
+ ## Auteurs : 
   - BAAR Khaoula
   - ABDELKAHER Céline
   
